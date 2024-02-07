@@ -1,3 +1,7 @@
+// -------------------------------------------------
+// Copyright (c) 2024 HiBit <https://www.hibit.dev>
+// -------------------------------------------------
+
 void turnPumpTemporaryOn(int delayMilliseconds)
 {
   turnPumpOn();

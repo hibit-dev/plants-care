@@ -1,3 +1,7 @@
+// -------------------------------------------------
+// Copyright (c) 2024 HiBit <https://www.hibit.dev>
+// -------------------------------------------------
+
 bool blinkBothLeds(int blinks)
 {
   for (int i = 0; i < blinks; i++) {

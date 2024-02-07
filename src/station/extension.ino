@@ -1,3 +1,7 @@
+// -------------------------------------------------
+// Copyright (c) 2024 HiBit <https://www.hibit.dev>
+// -------------------------------------------------
+
 void setDateTime(virtuabotixRTC RTC, const char* date, const char* time)
 {
   uint16_t year;
