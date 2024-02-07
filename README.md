@@ -7,7 +7,7 @@ In the world of do-it-yourself (DIY) projects, few activities match the practica
 └ schema  
 
 ## Documentation
-Discover a world of knowledge hosted on [HiBit website](https://www.hibit.dev). Serving as your informational hub, this resource offers clear instructions and valuable insights to explore a spectrum of articles, tutorials, stories, news, and beyond.  
+Discover a world of knowledge hosted on [HiBit](https://www.hibit.dev). Serving as your informational hub, this resource offers clear instructions and valuable insights to explore a spectrum of articles, tutorials, stories, news, and beyond.  
 
 You'll find detailed instructions and comprehensive documentation for this repository on:
 - [DIY - Automated plants watering system: concept](https://www.hibit.dev/posts/132/diy-automated-plants-watering-system-concept)
