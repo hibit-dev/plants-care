@@ -2,7 +2,7 @@
 In the world of do-it-yourself (DIY) projects, few activities match the practicality of constructing your own Arduino-powered automatic watering system. Imagine a setup where technology integrates effortlessly with nature, allowing you to take control of your plant care routine. We'll break down the fundamental components of this project, highlighting the vital role of the DS1302 timekeeping module and Arduino-compatible pumps. Get ready for a hands-on approach that not only enhances your technical skills but also transforms the way you care for your plants, whether they are in the corners of your home or under the open sky.  
 
 ├ src  
-│  └ station 
+│  └ station  
 ├ lib  
 └ schema  
 
